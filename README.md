@@ -11,10 +11,10 @@ It was hard to find the go with KiCad, bc I was using it for the first time. It 
 
 BOM:
 - 9x Cherry MX switches
-- 10x Blank DSA keycaps (1x for spare)
-- XIAO-RP2040
-- EC11 Rotary encoder
-- 0.91 inch OLED display
+- 12x Blank DSA keycaps (3x for spare)
+- 1x XIAO-RP2040
+- 1x EC11 Rotary encoder
+- 1x 0.91 inch OLED display
 
 
 
