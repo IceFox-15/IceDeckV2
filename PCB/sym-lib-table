@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SSD Module")(type "KiCad")(uri "${KIPRJMOD}/SSD Module.kicad_sym")(options "")(descr ""))
+)
