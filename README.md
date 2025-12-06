@@ -24,4 +24,4 @@ Schematic            |  PCB         |   Case
 ![image](https://github.com/IceFox-15/IceDeckV2/blob/d449ad023527c1adb734c538993e12a936350810/Pictures/IceDeckSchematic.png)    |  ![image](https://github.com/IceFox-15/IceDeckV2/blob/d449ad023527c1adb734c538993e12a936350810/Pictures/IceDeckPCB.png)  | ![image](https://github.com/IceFox-15/IceDeckV2/blob/d449ad023527c1adb734c538993e12a936350810/Pictures/IceDeckCase.png)
 
 Others:
-- Software runs on KMK
+- Firmware runs on KMK
